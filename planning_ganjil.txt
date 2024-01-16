@@ -1,7 +1,0 @@
-Semester ganjil
-Web client
-- Home
-- About
-- Contact us
-- Gallery
-- Message
